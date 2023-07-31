@@ -1,0 +1,2 @@
+# PaddleOCR
+Repository for OCR
